@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.main-latest-container {
+  background-color: #0f172a;
+  width: 92vw;
+  min-height: 500px;
+  max-height: 800px;
+  border-radius: 8px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 3%;
+  color: #ffffff;
+  font-family: bree serif;
+  padding-bottom: 3%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.innings-styles {
+  text-align: right;
+}
+.inning-headings-styles {
+  font-size: 24px;
+  font-weight: 400;
+}
+.innings-data-styles {
+  font-size: 16px;
+  font-weight: 400;
+}
+.team-name-styles {
+  font-size: 32px;
+  font-weight: 400;
+}
+.date-styles {
+  font-size: 26px;
+  font-weight: 400;
+}
+.team-logo-styles {
+  width: 20%;
+  height: 20%;
+}

@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.team-lists {
+  text-decoration: none;
+}
+.team-lists1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  max-width: 660px;
+  min-width: 620px;
+  height: 200px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+
+.ipl-team-logo {
+  width: 110px;
+  height: 115px;
+  margin-right: 10px;
+}
+.team-name {
+  font-size: 30px;
+  color: #ffffff;
+
+  font-family: bree serif;
+}

@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.list-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 4%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 4%;
+  background-color: #0f172a;
+  border: 1px solid #475569;
+  list-style-type: none;
+  border-radius: 8px;
+  margin-bottom: 1%;
+  margin-top: 1%;
+  min-height: 660px;
+  width: 500px;
+  flex-wrap: wrap;
+}
+.card-main-heading {
+  color: #ffffff;
+  font-size: 28px;
+  font-family: bree serif;
+  font-weight: 400;
+  text-align: center;
+}
+.image-card-logo {
+  height: 120px;
+  width: 110px;
+}
+.winning-by {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+}
+.won {
+  color: #18ed66;
+  font-size: 20px;
+  font-weight: 400;
+}
+.lose {
+  color: #e31a1a;
+  font-size: 20px;
+  font-weight: 400;
+}
